@@ -1,0 +1,3 @@
+[submodule "bdl-frontend"]
+	path = bdl-frontend
+	url = https://lab.ssafy.com/rich-beggar/bdl-frontend.git
