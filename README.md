@@ -214,7 +214,11 @@ app
 
 ### 🏗️ 아키텍처
 
+![architecture_BDL](ERD,%20아키텍처/ERD_BDL.png)
+
 ### 📚 ERD
+
+![ERD_BDL](ERD,%20아키텍처/시스템%20아키텍처_BDL.png)
 
 ---
 
@@ -385,15 +389,27 @@ app
 
 ### 홈
 
+![home](시연,%20GIF/mainpage.gif)
+
 ### 알고리즘 생성
+
+![algorithm_lab](시연,%20GIF/algo_lab.gif)
 
 ### 알고리즘 백테스트
 
+![backtest](시연,%20GIF/backtest.gif)
+
 ### 모의 투자
+
+![simulated_investment](시연,%20GIF/simulated_investment.gif)
 
 ### 주식 튜토리얼
 
+![tutorials](시연,%20GIF/tutorials.gif)
+
 ### 마이페이지
+
+![mypage](시연,%20GIF/mypage.gif)
 
 ---
 
