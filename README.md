@@ -399,19 +399,19 @@ app
 
 ### 알고리즘 백테스트
 
-![backtest](시연,%20GIF/backtest.gif)
+![backtest](시연%20GIF/backtest.gif)
 
 ### 모의 투자
 
-![simulated_investment](시연,%20GIF/simulated_investment.gif)
+![simulated_investment](시연%20GIF/simulated_investment.gif)
 
 ### 주식 튜토리얼
 
-![tutorials](시연,%20GIF/tutorials.gif)
+![tutorials](시연%20GIF/tutorials.gif)
 
 ### 마이페이지
 
-![mypage](시연,%20GIF/mypage.gif)
+![mypage](시연%20GIF//mypage.gif)
 
 ---
 
