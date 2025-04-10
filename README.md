@@ -391,11 +391,11 @@ app
 
 ### 홈
 
-![home](시연,%20GIF/mainpage.gif)
+![home](시연%20GIF/mainpage.gif)
 
 ### 알고리즘 생성
 
-![algorithm_lab](시연,%20GIF/algo_lab.gif)
+![algorithm_lab](시연%20GIF/algo_lab.gif)
 
 ### 알고리즘 백테스트
 
@@ -411,7 +411,7 @@ app
 
 ### 마이페이지
 
-![mypage](시연%20GIF//mypage.gif)
+![mypage](시연%20GIF/mypage.gif)
 
 ---
 
