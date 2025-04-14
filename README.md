@@ -216,11 +216,12 @@ app
 
 ### 🏗️ 아키텍처
 
-![architecture_BDL](ERD,%20아키텍처/ERD_BDL.png)
+![ERD_BDL](ERD,%20아키텍처/시스템%20아키텍처_BDL.png)
+
 
 ### 📚 ERD
 
-![ERD_BDL](ERD,%20아키텍처/시스템%20아키텍처_BDL.png)
+![architecture_BDL](ERD,%20아키텍처/ERD_BDL.png)
 
 ---
 
