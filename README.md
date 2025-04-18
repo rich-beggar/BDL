@@ -408,6 +408,7 @@ app
 ### 모의 투자
 
 ![simulated_investment](docs/시연%20GIF/simulated_investment.gif)
+![호가움직임](https://github.com/user-attachments/assets/e4f0f2c8-7e80-47c9-ad39-c4502558daae)
 
 ### 주식 튜토리얼
 
