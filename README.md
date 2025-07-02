@@ -6,7 +6,7 @@
 >
 > 모의 투자 및 자동 투자 시스템 기반 주식 학습 플랫폼
 
-- [🌐 부자될랩 서비스 바로가기](https://j12d202.p.ssafy.io)
+- [🌐 부자될랩 서비스 바로가기(백엔드 배포 중단)](https://buja-doel-lab.vercel.app/)
 - [🎞 부자될랩 영상 포트폴리오](https://youtu.be/IAPg_WdBHtI)
 - [📌 부자될랩 PPT](https://www.figma.com/deck/4Q7jJznHmXhNGEVqDswxMo/BDL-%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C?node-id=240-341&t=WoCX6Yo8om5eWIKN-1)
 
